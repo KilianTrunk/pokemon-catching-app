@@ -26,4 +26,4 @@ Welcome to the Pokémon Catching App! This application allows users to catch, co
 - **Deployment**: Google Cloud Storage and Cloudflare
 
 ## Author
-Kilian Trunk
+[Kilian Trunk](https://www.linkedin.com/in/kilian-trunk-8b9563278/)
