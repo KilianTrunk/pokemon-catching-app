@@ -24,3 +24,6 @@ Welcome to the Pokémon Catching App! This application allows users to catch, co
 - **Styling**: Emotion CSS-in-JS
 - **Build Tool**: Webpack
 - **Deployment**: Google Cloud Storage and Cloudflare
+
+## Author
+Kilian Trunk
