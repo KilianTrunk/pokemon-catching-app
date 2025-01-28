@@ -27,3 +27,4 @@ Welcome to the Pokémon Catching App! This application allows users to catch, co
 
 ## Author
 [Kilian Trunk](https://www.linkedin.com/in/kilian-trunk-8b9563278/)
+[kilian@ttsolutions.si](https://ttsolutions.si/)
